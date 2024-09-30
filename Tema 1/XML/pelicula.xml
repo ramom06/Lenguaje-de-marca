@@ -12,10 +12,10 @@
             <actor>Connie Nietsen</actor>
         </reparto>
         <fecha_estreno>
-            <dia>1</dia>   
+            <dia>1</dia>
             <mes>1</mes>
             <anyo>2000</anyo>
-        </fecha_estreno>        
+        </fecha_estreno>
     </pelicula>
     <pelicula genero="ciencia_ficcion" duracion="210">
         <titulo>Gladiator</titulo>
@@ -26,9 +26,9 @@
             <actor>Connie Nietsen</actor>
         </reparto>
         <fecha_estreno>
-            <dia>1</dia>   
+            <dia>1</dia>
             <mes>1</mes>
             <anyo>2000</anyo>
-        </fecha_estreno>        
+        </fecha_estreno>
     </pelicula>
 </catalogo>
