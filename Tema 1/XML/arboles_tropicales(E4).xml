@@ -7,7 +7,7 @@
     <colorFruto>Rosa</colorFruto>
     <maduracion>Agosto</maduracion>
     <riego>diario</riego>
-    <precio>3,5€</precio>
+    <precio moneda="euro" peso="kg">3,5</precio>
     
     <nombre>Logan</nombre>
     <variedad>Champoo</variedad>
@@ -15,7 +15,7 @@
     <colorFruto>Marrón</colorFruto>
     <maduracion>Octubre</maduracion>
     <riego>diario</riego>
-    <precio>2,5€</precio>
+    <precio moneda="euro" peso="kg">2,5</precio>
     
     <nombre>Litchi</nombre>
     <variedad>Mauritius</variedad>
@@ -23,5 +23,5 @@
     <colorFruto>Rojo</colorFruto>
     <maduracion>Agosto</maduracion>
     <riego>diario</riego>
-    <precio>3€</precio>
+    <precio moneda="euro" peso="kg">3</precio>
 </arbolesTropicales>
