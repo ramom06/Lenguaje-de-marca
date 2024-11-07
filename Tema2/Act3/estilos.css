@@ -14,9 +14,6 @@ h1{
     color: darkblue;
     text-align: center;
     background-color: white;
-<<<<<<< HEAD
-    border-top: darkblue;
-=======
     border-top: solid 1px darkblue;
     border-bottom: solid 1px darkblue;
 }
@@ -55,9 +52,8 @@ h2{
     border: dotted 3px darkblue;
     border-radius: 10px;
     padding: 5px;
-    margin-top: 2%;
     width: 40%;
+    margin-top: 2%;
     margin-left: auto;
     margin-right: auto;
->>>>>>> 747959cade8aee62cb8ecd5bc8e317c1a60a0581
 }
