@@ -12,11 +12,17 @@ body{
     font-weight: bold;
     margin: 0px auto;
 =======
+<<<<<<< HEAD
+    color: white;
+    font-weight: bold;
+    margin: 0px auto;
+=======
     height: auto;
     color: white;
     font-weight: bold;
     margin: 0px auto 0px auto;
 >>>>>>> 3ebc82d5a383136dfb5cb826e3c874e384c3dafe
+>>>>>>> a99fa452faf3fd1323cbdbb08836d7ae025213c6
     padding: 5px;
 }
 .form1 fieldset{
@@ -24,6 +30,9 @@ body{
     margin: 10px;
 }
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a99fa452faf3fd1323cbdbb08836d7ae025213c6
 .form1 .rellenar, .rellenar2{
     margin: 15px 0;
     clear: both;
@@ -39,6 +48,8 @@ body{
     margin-right: 15px;
 }
 
+<<<<<<< HEAD
+=======
 =======
 
 .form1 .rellenar, .rellenar2{
@@ -54,6 +65,7 @@ body{
 }
 
 >>>>>>> 3ebc82d5a383136dfb5cb826e3c874e384c3dafe
+>>>>>>> a99fa452faf3fd1323cbdbb08836d7ae025213c6
 .form2{
     background-color: lightcoral;
     border: 1px solid black;
@@ -102,10 +114,15 @@ body{
     background-color: darkred;
     width: 90%;
 =======
+<<<<<<< HEAD
+    background-color: darkred;
+    width: 90%;
+=======
     clear: both;
     background-color: darkred;
     width: 80%;
 >>>>>>> 3ebc82d5a383136dfb5cb826e3c874e384c3dafe
+>>>>>>> a99fa452faf3fd1323cbdbb08836d7ae025213c6
     padding: 3px;
     margin-bottom: 10px;
     text-align: center;
@@ -116,7 +133,11 @@ body{
 <<<<<<< HEAD
     margin-top: 15px;
 =======
+<<<<<<< HEAD
+    margin-top: 15px;
+=======
 >>>>>>> 3ebc82d5a383136dfb5cb826e3c874e384c3dafe
+>>>>>>> a99fa452faf3fd1323cbdbb08836d7ae025213c6
 }
 
 .form2 .contenedor .enLinea{
@@ -152,8 +173,11 @@ body{
     margin-left: 20%;
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 
 >>>>>>> 3ebc82d5a383136dfb5cb826e3c874e384c3dafe
+>>>>>>> a99fa452faf3fd1323cbdbb08836d7ae025213c6
 }
 
 .form2 .contenedor .borrar{
