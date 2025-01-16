@@ -1,0 +1,34 @@
+{
+    "estudiante":[
+        {
+            "nombreTitulacion": "Ingeniería Informática",
+            "nombreEstudiante":{
+                "nombre": "Juan",
+                "apellido": "Pérez"
+            },
+            "email":"emailFalso",
+            "repite":false,
+            "nomAmigos":["Pedro","Maria","Luis"],
+            "asignaturas":[
+                "Programación", 8,
+                "Sistemas", 6,
+                "FOL", 7
+            ]
+        },
+        {
+            "nombreTitulacion": "ESO",
+            "nombreEstudiante":{
+                "nombre": "PEPE",
+                "apellido": "Pérez"
+            },
+            "email":"emailVerdadero",
+            "repite":true,
+            "nomAmigos":["Juan","Maria","Luis"],
+            "asignaturas":[
+                "Matematicas", 8,
+                "Ingles", 6,
+                "Lengua", 7
+            ]
+        }
+    ]
+}
