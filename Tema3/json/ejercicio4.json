@@ -1,5 +1,5 @@
 {
-    "estudiante":[
+    "estudiantes":[
         {
             "nombreTitulacion": "Ingeniería Informática",
             "nombreEstudiante":{
@@ -10,9 +10,9 @@
             "repite":false,
             "nomAmigos":["Pedro","Maria","Luis"],
             "asignaturas":[
-                "Programación", 8,
-                "Sistemas", 6,
-                "FOL", 7
+                {"nombre": "Programación", "nota": 8},
+                {"nombre": "Sistemas", "nota": 6},
+                {"nombre": "FOL", "nota": 7}
             ]
         },
         {
@@ -25,9 +25,9 @@
             "repite":true,
             "nomAmigos":["Juan","Maria","Luis"],
             "asignaturas":[
-                "Matematicas", 8,
-                "Ingles", 6,
-                "Lengua", 7
+                {"nombre": "Matematicas", "nota": 8},
+                {"nombre": "Ingles", "nota": 6},
+                {"nombre": "Lengua", "nota": 7}
             ]
         }
     ]
